@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/addTask.svg</file>
+        <file>img/list1.svg</file>
+        <file>img/list2.svg</file>
+        <file>img/setting.svg</file>
+        <file>img/task.png</file>
+    </qresource>
+</RCC>
