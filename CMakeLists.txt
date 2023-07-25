@@ -24,7 +24,6 @@ qt_add_qml_module(appTodoV1
     QML_FILES main.qml
     BottomNavigationBar.qml
     AddTaskDialog.qml
-    InitMain.qml
     ui/SplashScreen.qml
     ui/MyTabButton.qml
     ui/Theme.qml
