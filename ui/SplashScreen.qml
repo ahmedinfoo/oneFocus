@@ -13,7 +13,7 @@ Window {
     width: Theme.width
     height: Theme.height
 
-    property int timeoutInterval: 10000
+    property int timeoutInterval: 2000
     signal timeout
     y: 0
 
